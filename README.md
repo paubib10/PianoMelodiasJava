@@ -14,10 +14,10 @@ PianoMelodiasJava es un emocionante proyecto que te sumerge en el mundo de la m�
    ```bash
    git clone https://github.com/tuusuario/PianoMelodiasJava.git
    
-Abrir el Proyecto:
+2. **Abrir el Proyecto:**
 Abre el proyecto en tu entorno de desarrollo Java favorito.
 
-Ejecutar la Aplicación:
+3. **Ejecutar la Aplicación:**
 Ejecuta la aplicación para acceder al piano virtual y comenzar a explorar las funciones musicales.
 
 ## Contribuciones
