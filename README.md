@@ -20,5 +20,5 @@ Abre el proyecto en tu entorno de desarrollo Java favorito.
 Ejecutar la Aplicación:
 Ejecuta la aplicación para acceder al piano virtual y comenzar a explorar las funciones musicales.
 
-Contribuciones
+## Contribuciones
 ¡Se aceptan contribuciones y mejoras! Si tienes ideas para nuevas características o mejoras, no dudes en abrir un problema o enviar una solicitud de extracción.
